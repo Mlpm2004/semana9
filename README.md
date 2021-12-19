@@ -1,3 +1,13 @@
+Exercício 5 Semana 9
+Exercício 5 Semana 9
+A. Quando não passamos o segundo parâmetro?
+O hook é ativado toda vez que a função em que ele está incluso é executada
+B. Quando passamos um array vazio?
+O hook é ativado somete uma vez.
+C. Quando passamos um array com uma variável (estado ou prop)?
+O hook é ativado sempre que a variável é alterada
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
