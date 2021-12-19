@@ -83,7 +83,7 @@ Personagem.propTypes = {
 };
 
 export default Personagem;
-
+  
 
 
 /* Vamos fazer uma refatoração.
